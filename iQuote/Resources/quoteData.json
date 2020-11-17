@@ -54,19 +54,10 @@
         "imageName": "casey_neistat"
     },
     {
-        "quote": "\"Pain is temporary, GPA is forever\"",
-        "author": "Linda Liu",
-        "occupation": "Scholar - Marketing Exec",
-        "id": 7,
-        "isFeatured": true,
-        "isFavorite": false,
-        "imageName": "linda"
-    },
-    {
         "quote": "\"When KFC came to China, 24 people went for the job, 23 people were accepted-I was the only guy.\"",
         "author": "Jack Ma",
         "occupation": "Co-Founder of Alibaba Group",
-        "id": 8,
+        "id": 7,
         "isFeatured": true,
         "isFavorite": false,
         "imageName": "jack_ma"
@@ -75,7 +66,7 @@
         "quote": "\"It's up to you whether you drive a Toyota or a BMW\"",
         "author": "Tu Liang Yang",
         "occupation": "DAD",
-        "id": 9,
+        "id": 8,
         "isFeatured": true,
         "isFavorite": false,
         "imageName": "dad"
@@ -84,7 +75,7 @@
         "quote": "\"There will be a cure for all illnesses, but never one for regret.\"",
         "author": "Xian Ming Li",
         "occupation": "MOM",
-        "id": 10,
+        "id": 9,
         "isFeatured": true,
         "isFavorite": false,
         "imageName": "mom"

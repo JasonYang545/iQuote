@@ -48,12 +48,14 @@ struct QuoteDetail: View {
                 if self.userData.quotes[self.quoteIndex].isFavorite {
                     Image(systemName: "heart.fill")
                         .foregroundColor(Color.red)
+                        .padding()
                 } else {
                     Image(systemName: "heart")
                         .foregroundColor(Color.gray)
                 }
             }
-                .padding(.bottom)
+//                .padding(.bottom)
+            .padding()
             
             Spacer()
         }

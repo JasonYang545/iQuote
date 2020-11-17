@@ -16,8 +16,6 @@ struct Home: View {
             List {
                 VStack {
                     QuoteDetail(quote: quoteData.randomElement()!)
-//                        .padding(.bottom)
-//                        .padding(.leading)
                 }
 
                 NavigationLink(destination: QuoteList()) {
