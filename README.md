@@ -19,6 +19,7 @@ When the user opens iQuote, iQuote launcnhes Quote of The Day that displays a ra
 - **❤️ :** ***tap*** the ❤️ to favorite the quote and save to Favorites. This feature allows user to save their favorite quotes and easily access their favorites (demo shown below). 
 - **SCROLL:** Scrolling down presents the user with *"See All Quotes"* that transitions to a new View that displays all quotes. (see next section).<br>
 <br>
+
 ## Quote List
 <img src="quoteList.gif" width="300" height="648.5"/>  <br>
 iQuote is not limited to just  Quote of The Day, it features a host of Views that allow the user to explore a multitude of quotes and interact with each one. Quote List is accessed by tapping *"See All Quotes"* on the home Quote of The Day View. This feature displays a list of quotes, with each row formatted to present a quote and its information.
@@ -33,6 +34,7 @@ Like many things in life such as songs, we can resonate with and become attached
 - **♡ :** Quote is not labelled as a favorite and can be found in the general *Quote List*
 - **Show Favorites Only:** When toggled on (green), iQuote only displays favorited quotes. When toggled off, iQuote displays all quotes.  
 <br>
+
 # Technical Details 
 ## Technology Overiew
 - iQuote is powered by **Swift** and developed on **Xcode 12.2**
