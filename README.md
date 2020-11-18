@@ -27,12 +27,13 @@ iQuote is not limited to just  Quote of The Day, it features a host of Views tha
 - **TAP *Quote of The Day*:** return to main View -> Quote of The Day
 - **TAP:** *tap* any quote in the list to view details. <br>
 <br>
+
 ## Favorites ❤️
 <img src="list_favorites_unfavorite.gif" width="300" height="648.5"/>  <br>
-Like many things in life such as songs, we can resonate with and become attached to quotes and revisit them many times. With iQuote, you can save those quotes you love to a *Favorites* list by simply *tapping* the ❤️ -icon that accompanies each quote. Access this *Favorites* list by going to *Quote List* and sliding the *Show Favorites Only* to view only your favorites. summary of this feature listed below:
-- **❤️ :** Quote is labelled as a favorite and will be featured in *Show Favorites Only* list
-- **♡ :** Quote is not labelled as a favorite and can be found in the general *Quote List*
-- **Show Favorites Only:** When toggled on (green), iQuote only displays favorited quotes. When toggled off, iQuote displays all quotes.  
+Like many things in life such as songs, we can resonate with and become attached to quotes and revisit them many times. With iQuote, you can save those quotes you love to a *Favorites* list by simply *tapping* the ❤️ -icon that accompanies each quote. Access this *Favorites* list by going to *Quote List* and sliding the *Show Favorites Only* to view only your favorites. summary of this feature listed below:<br>
+- **❤️ :** Quote is labelled as a favorite and will be featured in *Show Favorites Only* list<br>
+- **♡ :** Quote is not labelled as a favorite and can be found in the general *Quote List*<br>
+- **Show Favorites Only:** When toggled on (green), iQuote only displays favorited quotes. When toggled off, iQuote displays all quotes.  <br>
 <br>
 
 # Technical Details 
