@@ -44,11 +44,11 @@ Like many things in life such as songs, we can resonate with and become attached
 ## iQuote Views Overview
 - **Home.swift:** View behind Quote of The Day that is shown when user visits iQuote -> selects random quote and displays data in *VStack* embeddded within *NavigationView*. Relies on **QuoteDetail.swift**. 
 - **QuoteImage.swift:** View that formats author image and adds shadowing for contrast. <br>
- <img src="image.png" width="155.6" height="319.6"/>  <br>
+ <img src="image.png" width="194.5" height="399.5"/>  <br>
 - **QuoteDetail.swift:** View is responsible for obtaining quote details from supporting views and presenting a complete layout.  <br>
- <img src="detail.png" width="155.6" height="319.6"/>  <br>
+ <img src="detail.png" width="191.5" height="396.5"/>  <br>
  - **QuoteRow.swift:** View is responisble for formatting all quote inputs into row format. This View supports **QuoteList.swift** in displaying the list of quotes <br>
-  <img src="row.png" width="204" height="75.2"/>  <br>
+  <img src="row.png" width="255" height="94"/>  <br>
 - **QuoteList.swift:** View presents a list of all quotes when user selects *"See All Quotes"* <br>
   <img src="[list.png" width="193.5" height="397.5"/>  <br>
 <br>
